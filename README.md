@@ -1,4 +1,4 @@
-# projeto-individual-1-resilia[README.md](https://github.com/SuzBarbosa/projeto-individual-1-resilia/files/9914313/README.md)
+
 # Cartão de Apresentação
 - Nome: Suzana Barbosa
 E-mail: suzanabarbosa413@hotmail.com
